@@ -1,0 +1,51 @@
+.Title{
+    overflow: hidden;
+    background-image: url("C:\Users\krmoo\source\repos\Codecademy\Dasmoto's Arts and Crafts\pattern.jpeg");
+    background-size: cover;
+    position: relative;
+    top: 0;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+
+}
+.DasTitle h1{
+    position: absolute;
+    top: 0;
+    left: 30%;
+    right: 30%;
+    text-wrap: nowrap;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+#Brushes-info .Brushes{
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#Frames-info .Frames{
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#Paint-Choice .Paint{
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.Pricing{
+    color: blue;
+    font-weight: bold;
+}
+
+h1 h2 h3 p{
+    font-family: helvetica;
+}
